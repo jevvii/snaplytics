@@ -22,6 +22,7 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 .venv/
+.venv_rec/
 venv/
 env/
 
@@ -51,6 +52,7 @@ db.sqlite3
 .cxx/
 local.properties
 *.hprof
+*.keystore
 
 # IDE / platform artifacts
 *.iml
